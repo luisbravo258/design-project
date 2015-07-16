@@ -1,0 +1,29 @@
+.center {
+  width: 70%;
+  margin: auto;
+height: 1000px}
+
+.sidebar-left {
+  width: 50%;
+  float: left;
+}
+
+.sidebar-right {
+  width: 50%;
+  float: left;
+}
+
+body {background-color: orange;
+}
+
+div.center {background-color: white;
+}
+
+h1 {color: black;
+}
+
+h2 (color: gray;
+  )
+
+li {list-style: hebrew;
+}
