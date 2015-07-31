@@ -1,0 +1,67 @@
+.navbar{
+  display: inline-block;
+  list-style-type: none;
+  width: 100%;
+  text-align: left;
+}
+
+.menu-header img{
+  float: left;
+  padding: 12px;
+}
+
+.menu-bar a{
+
+  text-decoration: none;
+  color: black;
+  font-family: monospace courier;
+  font-size: 20px;
+
+}
+
+.menu-bar li{
+  display: inline-block;
+  padding-top: 20px;
+  margin-left: 80px;
+
+
+}
+
+.menu-bar{
+background-color: #EBF3AB;
+padding: 12px;
+padding-bottom: 40px;
+margin: auto;
+}
+
+.menu-header{
+  margin-top: 0;
+
+}
+
+body{
+margin: 0 auto;
+}
+
+.personal-photo img{
+  display: block;
+  margin: auto;
+  image-resolution: 400px;
+  margin-top: 50px solid #E6E6E6;
+  align-items: center;
+  padding: 50px 0 50px 0;
+
+}
+
+.personal-photo{
+  background-color: #E6E6E6;
+
+}
+
+.name-home{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+  background-color: #EBF3AB;
+  padding: 1px 0 1px 0;
+}
